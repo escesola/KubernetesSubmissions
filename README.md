@@ -8,4 +8,4 @@ Each exercise has a GitHub release whose tag matches the exercise number. The li
 
 | Exercise | App |
 | -------- | --- |
-| [1.1](https://github.com/YOUR_GITHUB_USER/KubernetesSubmissions/tree/1.1/log_output) | `log_output` |
+| [1.1](https://github.com/escesola/KubernetesSubmissions/tree/1.1/log_output) | `log_output` |
